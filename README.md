@@ -62,6 +62,6 @@ The integration is performed over the Lorentz-invariant two-body phase space wit
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/FeynCalc-TwoBodyIntegratorModule.git
+   git clone https://github.com/sadityag/FeynCalc-TwoBodyIntegratorModule.git
    cd FeynCalc-TwoBodyIntegratorModule
 
